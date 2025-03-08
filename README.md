@@ -11,6 +11,12 @@
 - [Objective](#objective)
 - [Data Source](#data-source)
 - [Design](#design)
+  - [Mockup](#mockup)
+  - [Tools](#tools)
+- [Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data Exploration](#data-exploration)
+  - [Data Cleaning](#data-cleaning)
 
 # Objective
 
