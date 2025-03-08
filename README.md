@@ -10,6 +10,7 @@
 
 - [Objective](#objective)
 - [Data Source](#data-source)
+- [Design](#design)
 
 # Objective
 
@@ -57,4 +58,70 @@ I want to quickly identify over-budget or underperforming projects and departmen
 - What should the dashboard contain based on the requirements provided?
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
+
+1. Which projects and departments are over budget or underperforming?
+2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+3. How can financial and workforce data be structured for efficient reporting?
+4. What insights can be visualized to monitor employee performance and salary distribution?
+
+For now, these are some of the questions we need to answer, this may change as we progress down our analysis.; however through
+
+
+## Dashboard mockup
+
+- What should it look like? 
+
+Some of the data visuals that may be appropriate in answering our questions include:
+
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal bar chart
+
+
+
+## Tools 
+
+
+| Tool | Purpose |
+| --- | --- |
+| Excel | Exploring the data |
+| SQL Server | Cleaning, testing, and analyzing the data |
+| Power BI | Visualizing the data via interactive dashboards |
+| GitHub | Hosting the project documentation and version control |
+| Mokkup AI | Designing the wireframe/mockup of the dashboard | 
+
+
+# Development
+
+## Pseudocode
+
+- What's the general approach in creating this solution from start to finish?
+
+1. Get the data
+2. Explore the data in Excel
+3. Load the data into SQL Server
+4. Clean the data with SQL
+5. Test the data with SQL
+6. Visualize the data in Power BI
+7. Generate the findings based on the insights
+8. Write the documentation + commentary
+9. Publish the data to GitHub Pages
+
+## Data exploration notes
+
+This is the stage where you have a scan of what's in the data, errors, inconsistencies, bugs, weird and corrupted characters, etc 
+
+
+
+## Data cleaning 
+- What do we expect the clean data to look like? (What should it contain? What constraints should we apply to it?)
+
+The aim is to refine our dataset to ensure it is structured and ready for analysis. 
+
+The cleaned data should meet the following criteria and constraints:
+
+- Only relevant columns should be retained.
+- All data types should be appropriate for the contents of each column.
+- No column should contain null values, indicating complete data for all records.
 
