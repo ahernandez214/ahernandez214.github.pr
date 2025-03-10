@@ -86,7 +86,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup](asset/images/powerbi_mockup.png)
+![Dashboard-Mockup](assets/images/powerbi_mockup.png)
 
 
 
