@@ -214,4 +214,13 @@ Here are the data quality tests conducted:
 
 ![GIF of Power BI Dashboard](assets/images/project.gif)
 
-This shows the budget & revuene of the departments
+This shows the budget & revenue of the departments
+
+
+
+# Analysis 
+
+## Findings
+
+- What did we find?
+
