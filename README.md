@@ -17,6 +17,11 @@
   - [Pseudocode](#pseudocode)
   - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
+  - [Create the SQL View](#create-the-sql-view)
+- [Testing](#testing)
+  - [Data Quality Tests](#data-quality-tests)
+- [Visualization](#visualization)
+  - [Results](#results)
 
 # Objective
 
@@ -127,7 +132,7 @@ This is the stage where you have a scan of what's in the data, errors, inconsist
 ## Data cleaning 
 - What do we expect the clean data to look like? (What should it contain? What constraints should we apply to it?)
 
-The aim is to refine our dataset to ensure it is structured and ready for analysis. 
+We aim to refine our dataset to ensure it is structured and ready for analysis. 
 
 The cleaned data should meet the following criteria and constraints:
 
