@@ -26,13 +26,13 @@ The Data Analyst must organize data and develop a Power BI dashboard to improve 
 
 
 - What is the ideal solution?
-The ideal solution is a Power BI dashboard that integrates financial and performance data to identify over-budget or underperforming projects. The dashboard should centralize and organize data, enable financial forecasting, and assess whether two-year budgets cover annual expenses. It will provide actionable insights for decision-making and improve budget monitoring and project management.
+The ideal solution is a Power BI dashboard integrating financial and performance data to identify over-budget or underperforming projects. The dashboard should centralize and organize data, enable financial forecasting, and assess whether two-year budgets cover annual expenses. It will provide actionable insights for decision-making and improve budget monitoring and project management.
 
 ## User story
 
 As a Manager,
 I want a Power BI dashboard that integrates financial and performance data,
-I want to quickly identify over-budget or underperforming projects and departments, ensure budgets cover expenses, and make data-driven decisions to improve financial and operational efficiency.
+I want to identify over-budget or underperforming projects and departments quickly, ensure budgets cover expenses, and make data-driven decisions to improve financial and operational efficiency.
 
 # Data source
 
@@ -83,6 +83,10 @@ Some of the data visuals that may be appropriate in answering our questions incl
 2. Treemap
 3. Scorecards
 4. Horizontal bar chart
+
+
+
+![Dashboard-Mockup](asset/images/powerbi_mockup.png)
 
 
 
