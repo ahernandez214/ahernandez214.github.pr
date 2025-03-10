@@ -197,3 +197,12 @@ on
 Here are the data quality tests conducted:
 
 ### Output
+![sql_results](assets/images/sql_results.png)
+![sql_results](assets/images/sql_results2.png)
+
+# Visualization 
+
+
+## Results
+
+- What does the dashboard look like?
