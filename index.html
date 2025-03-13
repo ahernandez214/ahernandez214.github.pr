@@ -3,29 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio README</title>
+    <title>View My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>My Portfolio</h1>
-        <div id="readme-content">Loading...</div>
+        <h1>End-to-End Data Analysis</h1>
+        <p>Click below to view my portfolio and projects.</p>
+        <a href="https://github.com/ahernandez214/ahernandez214.github.pr" target="_blank" class="button">
+            View on GitHub
+        </a>
     </div>
-
-    <script>
-        async function fetchReadme() {
-            const url = "https://raw.githubusercontent.com/ahernandez214/ahernandez214.github.pr/main/README.md";
-            try {
-                const response = await fetch(url);
-                if (!response.ok) throw new Error("Failed to load README");
-                const markdown = await response.text();
-                document.getElementById("readme-content").innerText = markdown;
-            } catch (error) {
-                document.getElementById("readme-content").innerText = "Failed to load README.";
-            }
-        }
-        fetchReadme();
-    </script>
 </body>
 </html>
-
