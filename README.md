@@ -261,7 +261,7 @@ Here are the key questions we need to answer for our manager:
 
 ## The revenue calculation uses the formula for the 2-year and 1-year budgets. 
 
-2-year Budget - Project Cost - Salary Cost = Revenue
+2-year Budget - Project Cost - Salary Cost = Revenue,
 1-year Budget - Project Cost - Salary Cost = Revenue
 
 ### 4. Projects completed
