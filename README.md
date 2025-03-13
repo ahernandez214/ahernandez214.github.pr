@@ -233,18 +233,25 @@ Here are the key questions we need to answer for our manager:
 
 ### 1. Which departments are over budget or underperforming?
 
-| Rank |  Departments      | Over Budget or Underperforming Revenue|
-|------|-------------------|---------------------------------------|
-| 1    | Human Resources   | -25,000                               |
+|  Departments      | Over Budget or Underperforming Revenue|
+|-------------------|---------------------------------------|
+| Human Resources   | -25,000                               |
 
 
 ### 2. Which departments are on budget or performing?
-| Rank | Departments       | On Budget or Performing Revenue|
-|------|-------------------|--------------------------------|
-| 1    | Sales             | 167,000                        |
-| 1    | Engineering       | 160,000                        |
-| 1    | Marketing         | 158,000                        |
-| 1    | IT                | 151,000                        |
+| Departments       | On Budget or Performing Revenue|
+|-------------------|--------------------------------|
+| Sales             | 167,000                        |
+| Engineering       | 160,000                        |
+| Marketing         | 158,000                        |
+| IT                | 151,000                        |
 
-2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+### 3. Can a single year’s budget cover all expenses within the 2-year budget cycle?
    
+| Departments       | Single Year’s Budget Revenue   |
+|-------------------|--------------------------------|
+| Engineering       | 167,000                        |
+| Marketing         | 160,000                        |
+| Sales             | 158,000                        |
+| Human Resources   | 151,000                        |
+| IT                | 151,000                        |
