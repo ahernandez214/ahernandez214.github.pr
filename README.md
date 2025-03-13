@@ -22,6 +22,8 @@
   - [Data Quality Tests](#data-quality-tests)
 - [Visualization](#visualization)
   - [Results](#results)
+- [Analysis](#analysis)
+  - [Findings](#findings)
 
 # Objective
 
@@ -37,7 +39,7 @@ The ideal solution is a Power BI dashboard integrating financial and performance
 
 As a Manager,
 I want a Power BI dashboard that integrates financial and performance data,
-I want to identify over-budget or underperforming projects and departments quickly, ensure budgets cover expenses, and make data-driven decisions to improve financial and operational efficiency.
+I want to quickly identify over-budget or underperforming projects and departments, ensure budgets cover expenses, and make data-driven decisions to improve financial and operational efficiency.
 
 # Data source
 
@@ -72,8 +74,7 @@ To understand what it should contain, we need to figure out what questions we ne
 
 1. Which projects and departments are over budget or underperforming?
 2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
-3. How can financial and workforce data be structured for efficient reporting?
-4. What insights can be visualized to monitor employee performance and salary distribution?
+3. What insights can be visualized to monitor employee performance and salary distribution?
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.; however through
 
@@ -224,3 +225,26 @@ This shows the budget & revenue of the departments
 
 - What did we find?
 
+For this analysis, we're going to focus on the questions below to get the information we need for our manager -
+
+Here are the key questions we need to answer for our manager:
+1. Which projects and departments are over budget or underperforming?
+2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+
+### 1. Which departments are over budget or underperforming?
+
+| Rank |  Departments      | Over Budget or Underperforming Revenue|
+|------|-------------------|---------------------------------------|
+| 1    | Human Resources   | -25,000                               |
+
+
+### 2. Which departments are on budget or performing?
+| Rank | Departments       | On Budget or Performing Revenue|
+|------|-------------------|--------------------------------|
+| 1    | Sales             | 167,000                        |
+| 1    | Engineering       | 160,000                        |
+| 1    | Marketing         | 158,000                        |
+| 1    | IT                | 151,000                        |
+
+2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+   
