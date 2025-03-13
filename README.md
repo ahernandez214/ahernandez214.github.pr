@@ -241,17 +241,18 @@ Here are the key questions we need to answer for our manager:
 ### 2. Which departments are on budget or performing?
 | Departments       | On Budget or Performing Revenue|
 |-------------------|--------------------------------|
-| Sales             | 167,000                        |
-| Engineering       | 160,000                        |
-| Marketing         | 158,000                        |
-| IT                | 151,000                        |
+| Sales             | 116,000                        |
+| Engineering       | 770,000                        |
+| Marketing         | 369,000                        |
+| IT                | 58,000                         |
+
 
 ### 3. Can a single year’s budget cover all expenses within the 2-year budget cycle?
    
 | Departments       | Single Year’s Budget Revenue   |
 |-------------------|--------------------------------|
-| Engineering       | 167,000                        |
-| Marketing         | 160,000                        |
-| Sales             | 158,000                        |
-| Human Resources   | 151,000                        |
-| IT                | 151,000                        |
+| Engineering       | 330,000                        |
+| Marketing         | 127,000                        |
+| Sales             | -17,000                        |
+| Human Resources   | -65,000                        |
+| IT                | -16,000                        |
