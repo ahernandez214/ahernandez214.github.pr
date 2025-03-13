@@ -24,6 +24,7 @@
   - [Results](#results)
 - [Analysis](#analysis)
   - [Findings](#findings)
+- [Recommendations](#recommendations)
 
 # Objective
 
@@ -72,9 +73,10 @@ I want to quickly identify over-budget or underperforming projects and departmen
 
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
-1. Which projects and departments are over budget or underperforming?
-2. Can a single year’s budget cover all expenses within the 2-year budget cycle?
-3. What insights can be visualized to monitor employee performance and salary distribution?
+1. Which departments are over budget or underperforming?
+2. Which departments are on budget or performing?
+3. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+
 
 For now, these are some of the questions we need to answer, this may change as we progress down our analysis.; however through
 
@@ -247,7 +249,7 @@ Here are the key questions we need to answer for our manager:
 | IT                | 58,000                         |
 
 
-### 3. Can a single year’s budget cover all expenses within the 2-year budget cycle?
+### 3. Can a single year’s budget cover all expenses within the 1-year budget cycle?
    
 | Departments       | Single Year’s Budget Revenue   |
 |-------------------|--------------------------------|
@@ -256,3 +258,22 @@ Here are the key questions we need to answer for our manager:
 | Sales             | -17,000                        |
 | Human Resources   | -65,000                        |
 | IT                | -16,000                        |
+
+## The revenue calculation uses the formula for the 2-year and 1-year budgets. 
+
+2-year Budget - Project Cost - Salary Cost = Revenue
+1-year Budget - Project Cost - Salary Cost = Revenue
+
+### 4. Projects completed
+
+1. Human Resources, Sales, and IT have completed their projects, but Sales and IT are still working on another project.
+2. Engineering, Marketing, Sales, and IT are still working on projects.
+
+   
+## Recommendations 
+
+- What do you recommend based on the insights gathered?
+
+1. Human Resources departments are over budget or underperforming. I recommend reducing their salary or increasing their project cost or 2-year budget.
+2. Every department is on budget or performing. 
+3. I don't recommend making a single year’s budget cover all expenses within the 2-year budget cycle. The revenue is less if everyone's salary or project cost is still the same.
