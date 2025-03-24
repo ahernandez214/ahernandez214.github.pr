@@ -1,4 +1,4 @@
-# Data Portfolio: SQL to Power BI
+# Workforce & Financial Performance Dashboard
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/End_To_End_Project.png)
